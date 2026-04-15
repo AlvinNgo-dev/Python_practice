@@ -1,0 +1,6 @@
+,CustomerID,Name,Gender,Country,Age,OrderID,ProductID,OrderStatus,PaymentMethod,Discount,ProductName,Category,Price,Brand
+0,1,Alice,Female,USA,25.0,101,201,Shipped,Credit Card,,Laptop,Electronics,1200,Dell
+1,1,Alice,Female,USA,25.0,104,202,Pending,Debit Card,,Headphones,Electronics,150,Sony
+2,2,Bob,Male,Canada,30.0,102,202,Cancelled,PayPal,10.0,Headphones,Electronics,150,Sony
+3,3,Charlie,Male,USA,,103,203,Shipped,Credit Card,,Chair,Furniture,300,Ikea
+4,4,Diana,Female,UK,28.0,105,201,Shipped,PayPal,,Laptop,Electronics,1200,Dell
